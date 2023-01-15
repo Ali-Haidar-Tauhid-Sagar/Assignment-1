@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Header start */
+
+.header {
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.header-content {
+    text-align: right;
+    padding-right: 235px;
+    padding-top: 120px;
+    padding-left: 720px;
+}
+
+.header-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+.header-description {
+    color: #FFFFFF;
+    font-size: 14px;
+    margin-bottom: 24px;
+
+}
+
+.btn-primary {
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 0;
+}
+
+/* Header end */
+
+/* main start */
+
+.failures-content {
+    display: flex;
+    align-items: center;
+    gap: 87px;
+    margin: 131px 200px;
+}
+
+.failures-content img {
+    width: 500px;
+    height: 600px;
+}
+
+.failures-title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+
+.failures-description {
+    color: #444343;
+    margin-bottom: 15px;
+}
+
+.failures-content li {
+    list-style-type: none;
+}
+
+.check-mark {
+    color: #16D887
+}
+
+.my-plan {
+    text-align: center;
+}
+
+.my-plan h2 {
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.skills-content {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 200px;
+}
+
+.skill img {
+    margin-bottom: 15px;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.skill-description {
+    color: #737272;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.banner-section {
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 860px;
+    height: 227px;
+    border-radius: 8px;
+    margin: 130px 250px;
+}
+
+.banner-content{
+    width: 320px;
+    padding: 40px 60px;
+}
+
+.banner-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+/* main end */
